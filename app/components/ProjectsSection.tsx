@@ -26,7 +26,7 @@ export default function ProjectsSection() {
                                 <Image src="/code.jpg" alt= "Project" fill className="object-cover" />
                             </div>
                             <div className="p-4 sm:p-6">
-                                <h3 className="text-base sm:text-lg font-semibold text-white mb-2">Witch's Cauldron Web App</h3>
+                                <h3 className="text-base sm:text-lg font-semibold text-white mb-2">Witch&#39;s Cauldron Web App</h3>
                                 <p className="text-sm sm:text-base text-gray-300 mb-4">A full-stack web application coded in Python using the Django Web Framework, alongside the Django REST API.
                                 It is a virtual storefront with a home page, about us page, store listings, and detailed views for individual store items.
                                 It has full implementation of an ordering system, user profiles, shopping cart, order history, search filters, and etc.</p>
