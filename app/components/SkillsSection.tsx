@@ -1,5 +1,5 @@
 export default function SkillsSection() {
-	const skills = ['Java', 'C#', 'Python', 'SQL', 'ASP.NET', 'Photoshop', 'Git', 'Linux / Unix'];
+	const skills = ['Java', 'C#', 'Python', 'SQL', 'HTML / CSS' , 'ASP.NET', 'Bootstrap', 'Adobe Creative Suite', 'Git Version Control', 'Linux / Windows'];
 
 	return (
 		<section className="bg-gray-800 py-12 sm:py-20">
